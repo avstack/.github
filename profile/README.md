@@ -1,6 +1,13 @@
 # AVStack
 
-We're an IaaS platform for realtime audio & video. You can learn more at [avstack.io](https://avstack.io/).
+AVStack offers managed services for realtime audio & video. Our products include:
+
+* Jitsi Meet hosting: deploy a high-performance, correctly configured and scalable Jitsi Meet stack with a single click.
+* Managed STUN/TURN: use our global STUN/TURN network to provide low latency connectivity to your users even in challenging network environments.
+* Load testing: measure the performance of your own WebRTC applications.
+* Expert consulting: leverage our WebRTC expertise from idea to deployment. 
+
+You can learn more at [avstack.io](https://avstack.io/).
 
 ## Open Source
 
